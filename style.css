@@ -84,6 +84,10 @@ nav {
   background-position: center right;
   align-items: flex-end;
 }
+.banner:hover .banner-right img {
+  transform: scale(1.2);
+  transition: transform 1s ease-out;
+}
 
 /* ----------------------
         sponsor
